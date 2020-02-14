@@ -1,0 +1,68 @@
+[
+	{
+		"name":"CHAAYOS",
+		"logo":"Chaayos-logo-tea.png",
+		"website":"https://www.chaayos.com/",
+		"sponsortype": "Food Partner"
+	},
+	{
+		"name":"THE COLLEGE FEVER",
+		"logo":"TheCollegeFever-Logo-200x200.png",
+		"website":"https://www.thecollegefever.com/",
+		"sponsortype": "Online Ticketing Partner"
+	},
+	{
+		"name":"TRIPPIN EVENTS",
+		"logo":"TRIPPINEVENTS.png",
+		"website":"http://trippinevents.com/",
+		"sponsortype": "TRAVEL Partner"
+	},
+	{
+		"name":"DU FACTZ",
+		"logo":"VrcTAKEg.jpg",
+		"website":"https://www.instagram.com/du_factz/",
+		"sponsortype": "Media Partner"
+	},
+	{
+		"name":"THE CAMPUS MEDIA",
+		"logo":"29400420_553066068399537_6444360456395030528_n.jpg",
+		"website":"https://www.instagram.com/thecampusmedia/",
+		"sponsortype": "Media Partner"
+	},
+	{
+		"name":"DU VIBES",
+		"logo":"DUVIBES.jpeg",
+		"website":"https://www.instagram.com/duvibes_/?hl=en",
+		"sponsortype": "Media Partner"
+	},
+	{
+		"name":"DU BEAT",
+		"logo":"36924384_213064919352891_676374602280075264_n.jpg",
+		"website":"https://www.instagram.com/du_beat/?hl=ens",
+		"sponsortype": "Media Partner"
+	},
+	{
+		"name":"DELHI UNIVERSITY UPDATES",
+		"logo":"DELHIUNIVERSITYUPDATES.jpeg",
+		"website":"https://www.instagram.com/delhi_university_up_dates/?hl=en",
+		"sponsortype": "Media Partner"
+	},
+	{
+		"name":"DU EXPRESS",
+		"logo":"51605493_299705310603864_1920568990834114244_n.jpg",
+		"website":"https://www.instagram.com/duexpress/?hl=en",
+		"sponsortype": "Media Partner"
+	},
+	{
+		"name":"DU NEWS",
+		"logo":"50252762_834476876900969_2318548179605258240_n.jpg",
+		"website":"https://www.instagram.com/delhi_university_news/?hl=en",
+		"sponsortype": "Media Partner"
+	},
+	{
+		"name":"DU LATEST UPDATES",
+		"logo":"50088372_350676992186360_7019647510100574208_n.jpg",
+		"website":"https://www.instagram.com/dulatestupdates/?hl=en",
+		"sponsortype": "Media Partner"
+	}
+]

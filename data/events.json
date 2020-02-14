@@ -1,0 +1,151 @@
+[
+	{
+		"Name": "Andhadhun",
+		"tagLine": "Blind coding",
+		"eventType":"Game",
+		"description": "This is a blind coding event in which screen will be off and participant have to code.<br>There are two rounds in this event-<br>Round1:Mcq (computer science based)<br>Round 2:Write a c++  code with screen turned off.",
+		"website":"http://bit.ly/andhadhun_19",
+		"logo":"webiesta.svg"
+	},
+	{
+		"Name": "Chitti2.0",
+		"tagLine": "The supercool robo car race",
+		"eventType":"Game",
+		"description": "This is robo car muzzle competition.In this the Participants will have to bring their own robo cars.The event will contain some checkpoints like bridges, pit and several other kin of obstacles.The participant will be awarded the points depending upon the eloquence and performance of their robo\'s at each stage.Participants can come in team as well as single participation is alaso allowed.",
+		"website":"http://bit.ly/chitti_19",
+		"logo":"chitti.svg"
+	},
+	{
+		"Name": "Doodling",
+		"tagLine": "Drawing competition with a twist in it",
+		"eventType":"Game",
+		"description": "Its a drawing event. The theme for doddling is <strong>Rememberance of Computer Science</strong>. The participant will be provided with a sheet and a word and he/she will be asked to doddle around it. The one whoes doodle will be selected by our judges will be declared as a winner.The doodle shoud contain elements of Computer Science in it.",
+		"website":"http://bit.ly/doodling_19",
+		"logo":"pencildoodle.svg"
+	},
+	{
+		"Name": "Gen-Tech Quiz",
+		"tagLine": "Technical and Non-Technical quiz combined",
+		"eventType":"Game",
+		"description": "Its a general as well as technical quiz.It will include two rounds Prelims and final.The final round will include some sub-rounds like fastest-finger-firstround etc.",
+		"website":"http://bit.ly/gentech_19",
+		"logo":"judgeme.svg"
+	},
+	{
+		"Name": "Omnicoder",
+		"tagLine": "Multi-language coding",
+		"eventType":"Game",
+		"description": "Its a multilingual coding competition. The participant will be given a code and he /she will have to write its solution in as many language they can. The one with more languages and up to mark code will be the winner.It will have two rounds.First round will comprise of MCQ questions and Round second will be actual coding round.",
+		"website":"http://bit.ly/omni_19",
+		"logo":"gameofcodes.svg"
+	},
+	{
+		"Name": "Pictionary",
+		"tagLine": "Quick sketches hilarious guesses",
+		"eventType":"Game",
+		"description": "Its a guessing game in which a you will be asked to make pairs with someone and then one of you wil be given a word or a song and you have to make your partner understand it by drawing on board but instead of acting just like in Damsharaz.If your partner guesses it right you will qualify for further words.The more right guesses the more will be the chance of winning.",
+		"website":"http://bit.ly/pictionary_19",
+		"logo":"shapes-logo.svg"
+	},
+	{
+		"Name": "QR-Hunt",
+		"tagLine": "Treasure hunt with a cool technical twist",
+		"eventType":"Game",
+		"description": "This is modernistic form of Treasure Hunt where the clues will be hidden throughout the Ramanujan Campus in the form of QR instead of those traditional envelopes. The game will start with a beg-borrow-steel round followed by  <strong>crack the clue</strong> round.The winning team will win exciting cash prizes along with vouchers.",
+		"website":"http://bit.ly/qrhunt_19",
+		"logo":"qrhunt.svg"
+	},
+	{
+		"Name": "Lightening Talk",
+		"tagLine": "Technical presentation platform",
+		"eventType":"Game",
+		"description": "Its a lightening talk event in which you will be given a topic and you need to speak on it and give your views on it. The one who will think out of the box xwill be declared as a winner by our judges.",
+		"website":"http://bit.ly/techtalks_19",
+		"logo":"lightningtalks.svg"
+	},
+	{
+		"Name": "Bob-The-Assembler",
+		"tagLine": "Hardware Assembly",
+		"eventType":"Game",
+		"description": "It is hardware assembling game wherein you will be provided with a system and you have to assemble it in minimum amount of time.The one with the shortest time will win the competition.",
+		"website":"http://bit.ly/bob_19",
+		"logo":"processor.svg"
+	},
+	{
+		"Name": "Clash of Gamers",
+		"tagLine": "Adrenaline inside the LAN",
+		"eventType":"Game",
+		"description": "Tournament of many cool games like CS-GO, Mobile-PUBG with cool winning prizes <br><center><ul><li>Jio sims are recommended</li><li>Entry fees is applicable</li></ul></center>",
+		"website":"http://bit.ly/clash_19",
+		"logo":"joystick.svg"
+	}
+]
+
+/*
+[
+	{
+		"Name": "Rubix Cube",
+		"tagLine": "Six Faces",
+		"eventType":"Game",
+		"description": "Enjoy the heat of fest by playing games like RUBICS CUBE. Complete those six faces of the cube of the same colours as fast as you can. ",
+		"website":"cube.html",
+		"logo":"cube.svg"
+	},
+	{
+		"Name": "Sudoku",
+		"tagLine": "Murder by Number",
+		"eventType":"Game",
+		"description": "Fill up the 9*9 square block of SUDOKO as fast as you can.",
+		"website":"sudoku.html",
+		"logo":"sudoku.svg"
+	},
+	{
+		"Name": "Clash of Gamers",
+		"tagLine": "Adrenaline inside the LAN",
+		"eventType":"Game",
+		"description": "Tournament of many cool games like CS-GO, NFS, Mobile-PUBG, Unreal Tournament with cool winning prizes",
+		"website":"cog.html",
+		"logo":"joystick.svg"
+	},
+	{
+		"Name": "QR-HUNT",
+		"tagLine": "Every clue here is the key to the next mystery",
+		"eventType":"Game",
+		"description": "A treasure hunt like event with QR tech",
+		"website":"qrhunt.html",
+		"logo":"qrhunt.svg"
+	},
+	{
+		"Name": "Webiesta",
+		"tagLine": "Work the magic potion of HTML,CSS and JAVASCRIPT",
+		"eventType":"Compete",
+		"description": "Join webiesta and show that you are better web developer than other.",
+		"website":"webiesta.html",
+		"logo":"webiesta.svg"
+	},
+	{
+		"Name": "Game of Codes",
+		"tagLine": "The Annual Code-War",
+		"eventType":"Compete",
+		"description": "A 3hr competition with real life coding problems",
+		"website":"goc.html",
+		"logo":"gameofcodes.svg"
+	},
+	{
+		"Name": "Judge Me If you can",
+		"tagLine": "You know ,you grow!",
+		"eventType":"Quiz",
+		"description": "A fast paced computer quiz",
+		"website":"judge.html",
+		"logo":"judgeme.svg"
+	},
+	{
+		"Name": "Tech Tambola",
+		"tagLine": "Be noticed!<br>Be smart!<br>Be ready to check your speed of thought!",
+		"eventType":"Compete",
+		"description": "Here is an exciting event but with a technical TADKA!! Guess and strike correct answers instead of simple numbers. Pray your luck to be with you.",
+		"website":"techtambola.html",
+		"logo":"tambola.svg"
+	}	
+	
+]*/

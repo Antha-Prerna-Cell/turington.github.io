@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 69.78 67.61"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="lightningtalks.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="667"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="3.4906079"
+     inkscape:cx="-17.249916"
+     inkscape:cy="33.805"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <title
+     id="title2">Lightning_Talks_Printable_Icon</title>
+  <circle
+     cx="34.89"
+     cy="33.8"
+     r="28"
+     style="fill:#dad5f6;stroke:#110e5f;stroke-linecap:round;stroke-linejoin:round;stroke-width:4px;stroke-opacity:1;fill-opacity:0.5771144"
+     id="circle4" />
+  <path
+     d="M49.22,29.3l-10.9-.08L45,16.64l-14.72-.13L22.56,38.17l8.42.08L25.84,53.09Z"
+     style="fill:#110e5f;fill-opacity:1"
+     id="path6" />
+</svg>

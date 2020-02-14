@@ -1,0 +1,111 @@
+
+#events
+{
+	text-align: center;
+	display: block;
+	padding: 30px 0px;
+}
+
+	#eventsContainer
+	{
+		display: block;
+		column-count: 3;
+		column-gap: 0px;
+		margin: 7%;
+	}
+
+
+		.eventBox
+		{	
+			display: inline-block;
+			max-width: 270px;
+			min-width: 270px;
+			padding-top: 40px;
+			padding-bottom: 40px;
+			margin-top: 20px;
+			margin-bottom: 20px;
+			border-radius: 15px;
+			background-color: #FDFDFD;
+			box-shadow: 0 0 5px 0 #BBB;
+
+
+  			-webkit-transition:0.3s ease;
+    		-moz-transition:0.3s ease;
+    		-o-transition:0.3s ease;
+    		transition:0.3s ease;
+		}
+
+		.eventBox button 
+		{
+			border-radius: 5px;
+			background-color: #006;
+			color: #fff;
+			border-style: none;
+			font-size:inherit;
+			font-family:inherit;
+			padding: 5px 10px;
+		}
+
+				.eventName
+				{
+					display: block;
+					font-style: bold;
+					color: #110e5f;
+					font-size: 1.5em;
+					padding: 5px 5px 2px 5px;
+				}
+
+				.eventTagLine
+				{
+					display: block;
+					font-size: 0.8em;
+					color: #110e5f;
+					padding: 0px 15px 20px 15px;
+				}
+
+				.eventLogo
+				{
+					display: block;
+					width: 90px;
+					height: 90px;
+					margin: 5px;
+					margin-bottom:40px; 
+					background-size: 100% 100%;
+				}
+
+				.eventDescription
+				{
+					display: block;
+					font-size: 0.8em;
+					color: #555;
+
+					padding: 0px 30px 20px 30px;
+				}
+
+
+.eventBox:hover
+{
+	-ms-transform: scale(1.2); /* IE 9 */
+	-webkit-transform: scale(1.2); /* Safari */
+	transform: scale(1.2);
+	background-color: #F1FeFf;
+}
+
+
+
+@media only screen and (max-width: 1000px)
+{
+		#eventsContainer
+		{
+			column-count: 2;
+		}
+}
+
+@media only screen and (max-width: 600px)
+{
+		#eventsContainer
+		{
+			column-count: 1;
+		}
+}
+

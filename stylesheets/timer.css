@@ -1,0 +1,36 @@
+
+#timer
+{
+	display: inline-block;
+	padding: 10px;
+	margin-top: 20px;
+	column-count: 3;
+}
+
+
+.timerBox
+{
+	display: block;
+	text-align: center;
+	color: white;
+	background-color: #110e5f;
+	opacity: 0.8;
+
+	width: 30px;
+	height: 30px;
+	padding: 5px;
+	border-radius: 5px;
+	border-color: white;
+	border-style: solid;
+	border-width: 2px;
+
+}
+
+.timerLabel
+{
+	display: block;
+	text-align: center;
+	color:  white ;
+	text-shadow:  0px 0px 2px #110e5f;
+}
+

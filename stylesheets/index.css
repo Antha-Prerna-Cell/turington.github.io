@@ -1,0 +1,152 @@
+html,body
+{
+	padding: 0px;
+	margin: 0px;
+	font-family: 'Montserrat', sans-serif;
+	background-color: white;
+	scroll-behavior: smooth;
+	background-image: url("../img/b2.svg");
+	background-repeat: repeat;
+}
+
+
+#intro
+{ 
+	color:  white ;
+	text-align: center;
+	line-height: 1.5;
+	font-weight: bold;
+	overflow: hidden;
+	display: block;
+
+	height: 100vh;
+
+	background-image: url("../img/b1.svg");
+	background-repeat: no-repeat;
+	background-size: auto 100%;
+
+}
+
+
+
+#turingtonHeading
+{
+	font-weight: bold;
+	font-size: 5em;
+	text-align: center;
+
+
+	padding-top: 60px;
+	margin-top: 60px;
+
+
+	margin-bottom: 5px;
+	padding-bottom: 5px; 
+
+}
+@media only screen and (max-width: 600px) 
+{
+	#turingtonHeading
+	{
+		padding-left: 15px;
+		padding-right: 15px;
+		font-size: 2.9em;
+	}
+
+	#about
+	{
+		font-size: 0.8em;
+	}
+}
+
+
+
+.heading
+{
+	color:  #110e5f ;
+	text-align: center;
+	display: block;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+	font-size: 2.5em;
+}
+
+#happy
+{
+	background-image: url("../img/happy.svg");
+	position: relative;
+	top: 5%;
+	left: 40%;
+	width: 20%;
+	height: 20%;
+}
+
+#plane
+{
+	background-image: url("../img/plane.svg");
+	position: absolute;
+	top: 5%;
+	left: 40%;
+	width: 30%;
+	height: 30%;
+}
+
+
+
+
+
+.line
+{
+	align-content: center;
+	width: 70%;
+	height: 2px;
+	background-color: #110e5f;
+	border-style: none;
+	margin-top: 30px;
+	margin-bottom: 30px;
+
+	box-shadow: 0px 3px 4px 0px #110e5f;
+}
+
+
+
+
+/*---------------------------------------------*/
+
+
+#about
+{
+	text-align: center;
+	display: block;
+	padding: 2% 4%;
+	margin: 30px;
+	margin-left: 20%;
+	margin-right: 20%;
+	color: #110e5f;
+	background-color: white;
+	border-radius: 10px;
+	font-style: italic;
+	font-size: 1.1em;
+
+	box-shadow: 0px 0px 10px 0px navy;
+}
+
+@media only screen and (max-width: 600px) 
+{
+	#about
+	{
+		padding: 2% 4%;
+		margin: 2%;
+		font-size: 0.8em;
+	}
+	.heading
+	{
+		font-size: 1.5em;
+	}
+}
+
+
+
+
+
+

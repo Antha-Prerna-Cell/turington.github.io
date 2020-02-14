@@ -1,0 +1,192 @@
+html,body
+{
+	padding: 0px;
+	margin: 0px;
+	//font-family: 'Montserrat', sans-serif;
+	font-family: 'Chelsea Market', cursive;
+
+	background-color: white;
+	scroll-behavior: smooth;
+	line-height: 1.6;
+
+	//background-image: url(../img/bg-cartoon-3.jpg);
+	//background-repeat: repeat;
+	//background-size: 100% auto;
+	
+	-webkit-font-size-adjust: none;
+	-moz-font-size-adjust: none,
+	-webkit-font-size-adjust: none;
+	-ms-font-size-adjust: none;
+	font-size-adjust: none;
+}
+@media only screen and (min-width: 1000px)
+{
+	html,body
+	{
+		//background-size: 80% auto;	
+	}
+}
+
+
+	.Page
+	{	
+		display: inline-block;
+		width: 80%;
+		min-height: 20px;
+		margin: 10%;
+		border-radius: 10px;
+		background-color: #FAFAFA;
+
+
+		box-shadow: 0 0 5px 0 #AAA;
+	}
+
+h1
+{
+	font-size: 2.5em;
+	display: inline-block;
+	color: #110e5f;
+	text-shadow: 0px 0px 7px #FFF;
+}
+
+h2
+{
+	display: inline-block;
+	text-decoration: underline;
+	color: white;
+	background-color: #110e5f;
+	opacity: 0.8;
+	padding: 30px;
+	text-shadow: 0px 0px 2px #f1feff;
+
+	border-top-right-radius: 15px;
+	border-bottom-right-radius: 15px;
+	box-shadow: 0px 0px 10px 0px #555;	
+
+}
+
+.content
+{
+	margin-left: 80px;
+	margin-bottom: 50px; 
+	display: block;
+	padding: 20px;
+	font-style: bold;
+	font-size: 1.2em;
+	color: #557;
+	text-shadow: 0px 0px 5px #FFF;
+}
+
+
+
+#backButton
+{
+	float: right;
+	margin: 40px;
+}
+
+	#backButton::after
+	{
+		content: "";
+		display: inline-block;
+		clear: both;
+	}
+
+	.bar1 , .bar2 , .bar3
+	{
+		width:40px;
+		height: 4px;
+		background-color: #222;
+		margin: 6px 0;
+
+		-webkit-transition:0.2s ease;
+    	-moz-transition:0.2s ease;
+    	-o-transition:0.2s ease;
+    	transition:0.2s ease;
+	}
+
+	.bar1 
+	{
+	  -webkit-transform: rotate(-45deg) translate(-9px, 6px);
+	  transform: rotate(-45deg) translate(-9px, 6px);
+	}
+
+	.bar2 
+	{
+		opacity: 0;
+		width: 60px;
+	}
+
+	.bar3 
+	{
+	  -webkit-transform: rotate(45deg) translate(-8px, -8px);
+	  transform: rotate(45deg) translate(-8px, -8px);
+	}
+
+	.change .bar1 
+	{
+	  -webkit-transform: rotate(-45deg) translate(-14px, -14px);
+	  transform: rotate(-45deg) translate(-14px, -14px) ;
+	}
+
+	.change .bar2 
+	{
+		opacity: 1;
+	}
+
+	.change .bar3 
+	{
+	  -webkit-transform: rotate(45deg) translate(-14px, 14px);
+	  transform: rotate(45deg) translate(-14px, 14px);
+	}
+
+.special
+{
+	text-decoration: underline;
+	color: #110e9f;
+}
+
+@media only screen and (max-width: 600px)
+{
+
+	.Page
+	{	
+		width: 90%;
+		margin: 4%;
+	}
+
+	h1
+	{
+		font-size: 1.5em;
+	}
+
+	h2
+	{
+		font-size: 1.0em;
+		padding: 20px;
+	}
+
+	.content
+	{
+		font-size: 0.9em;
+		margin-left: 70px;
+		margin-bottom: 50px; 
+		padding: 10px;
+	}
+
+
+
+	#backButton
+	{
+		float: right;
+		margin-top: 12px;
+		margin-right: 7px; 
+	}
+
+
+	.special
+	{
+		text-decoration: underline;
+		color: #110e9f;
+	}
+}

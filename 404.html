@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Page Not Found</title>
+
+    <!-- Add social media icon library -->
+
+  	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+    <link rel="stylesheet" href="stylesheets/navBar.css">
+    <link rel="stylesheet" href="stylesheets/404.css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat|Quicksand" rel="stylesheet">
+
+
+
+  </head>
+  <body>
+    <div class="container">
+
+    <div class="title">
+      TuringTon
+    </div>
+    <div id="navButton" class="navButton" onclick="toggleNav(this)">
+  			<div class="bar1"></div>
+  			<div class="bar2"></div>
+  			<div class="bar3"></div>
+		</div>
+
+			<div id="navBar" class="navBar hideNavBar" onclick="toggleNav(this)">
+				<center>
+				<a href="index.html#intro"><i class="fa fa-home"></i>Home</a>
+				<a href="index.html#about"><i class="fa fa-info-circle"></i>About</a>
+				<a href="index.html#events"><i class="fa fa-calendar"></i>Events</a>
+				<a href="speakers.html"><i class="fa fa-chalkboard-teacher"></i>Speakers</a>
+				<a href="team.html"><i class="fa fa-users"></i>Team</a>
+				<a href="glimpses.html"><i class="fa fa-eye"></i>Glimpses</a>
+				<a href="index.html#sponsors"><i class="fa fa-handshake-o"></i>Sponsors</a>
+				<a href="index.html#contacts"><i class="fa fa-address-book"></i>Contacts</a>
+				</center>
+			</div>
+
+			<script>
+				function toggleNav(y)
+				{
+					var x = document.getElementById("navButton");
+					x.classList.toggle("change");
+					var navBar = document.getElementById("navBar");
+					if(x.classList.contains("change"))
+						navBar.className="navBar";
+					else
+						navBar.className="navBar hideNavBar";
+				}
+			</script>
+
+      <div class="Error">
+        <img src="img/filenotfound1.svg" width="20%" height="20%">
+        <br>
+        Page Not Found
+        <div style="font-size:50%;padding-top:2%;">Unfortunately the page you’re looking for is not here. You might like to try going back to the <a href="index.html">homepage</a></div>
+      </div>
+
+      <hr>
+      <blockquote id="qod-quote">
+          ... loading ...
+      </blockquote>
+          </div>
+      <script src="http://quotesondesign.com/api/3.0/api-3.0.js" type="text/javascript" charset="utf-8"></script>
+
+  </body>
+</html>

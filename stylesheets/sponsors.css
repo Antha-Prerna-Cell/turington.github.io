@@ -1,0 +1,67 @@
+
+#sponsors
+{
+	text-align: center;
+	display: block;
+	overflow: hidden;
+
+	background-image: url("../img/bg-sponsors.svg");
+	background-repeat: repeat-x;
+	background-size: auto auto;
+	background-position: center center;
+}
+
+#sponsorsContainer
+{
+	padding: 0;
+	margin: 10%;
+	margin-top: 0;
+	margin-bottom: 10px;
+}
+
+.sponsorimg
+{
+	display: inline-block;
+	height: 70px;
+	margin-top: 30px;
+	margin-bottom: 15px;
+	background-size: 100% 100%;
+}
+
+.sponsorTemplate
+{
+	display: inline-block;
+	max-width: 180px;
+	min-width: 180px;
+	min-height: 160px;
+	max-height: 160px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin: 15px;
+	border-radius: 0px;
+	background-color: #FDFDFD;
+	box-shadow: 0 0 5px 0 #BBB;
+
+}
+
+.sponsorTemplate div
+{
+	display: block;
+	font-style: bold;
+	color: #110e5f;
+	font-size: 0.9em;
+	text-decoration: none;
+}
+
+.sponsorTemplate a
+{
+	text-decoration: none;
+}
+
+@media only screen and (max-width: 600px)
+{
+	#sponsors
+	{
+		background-repeat: repeat-y;
+	}
+}
