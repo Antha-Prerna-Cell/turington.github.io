@@ -318,7 +318,7 @@ function getGlimpses()
 
 function setTimer()
 {
-	var festDate = new Date("Mar 29, 2019 10:00:00").getTime();
+	var festDate = new Date("Feb 28, 2020 10:00:00").getTime();
 	var countdown = setInterval(function() {
 		var now = new Date().getTime();
 		var distance = festDate - now;
@@ -326,20 +326,22 @@ function setTimer()
 		var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
 		var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
 
-		document.getElementById("days").innerHTML = days;
-		document.getElementById("hours").innerHTML = hours;
-		document.getElementById("minutes").innerHTML = minutes;
-
-		if(days==-1)
+		if(days==-1 || days==-2)
 		{
 			document.getElementById("timer").innerHTML = 'Festival is On, WELCOME!!';
 			document.getElementById("timer").style.display = "inline";
+			return
 		}
-		if(days<-1)
+		if(days<-2)
 		{
-			document.getElementById("timer").innerHTML = 'The Event have Ended.';
+			document.getElementById("timer").innerHTML = 'The event has ended... for this year!';
 			document.getElementById("timer").style.display = "inline";
+			return
 		}
+
+		document.getElementById("days").innerHTML = days;
+		document.getElementById("hours").innerHTML = hours;
+		document.getElementById("minutes").innerHTML = minutes;
 		
 	}, 1000);
 }
