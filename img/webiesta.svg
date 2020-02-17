@@ -9,15 +9,15 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="199.53392mm"
+   width="179.53392mm"
    height="249.50494mm"
-   viewBox="0 0 199.53392 249.50494"
+   viewBox="0 0 179.53392 249.50494"
    version="1.1"
    id="svg8"
    inkscape:export-filename="H:\Continuum the tex fest\resources\webiesta\webiesta_logo.png"
    inkscape:export-xdpi="241.94142"
    inkscape:export-ydpi="241.94142"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.4 (f8dce91, 2019-08-02)"
    sodipodi:docname="webiesta.svg">
   <defs
      id="defs2">
@@ -44,13 +44,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="506.57467"
-     inkscape:cy="331.06637"
+     inkscape:cx="139.8893"
+     inkscape:cy="484.60956"
      inkscape:document-units="mm"
      inkscape:current-layer="layer3"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="676"
+     inkscape:window-width="1600"
+     inkscape:window-height="796"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -66,7 +66,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -90,7 +90,7 @@
     <g
        id="g78"
        style="fill:#110e5f;fill-opacity:1;stroke:#110e5f;stroke-width:1.97423625;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       transform="matrix(0.84095533,0,0,1,16.654151,0)">
+       transform="matrix(0.84095533,0,0,1,5.5416467,0)">
       <g
          id="g61"
          style="display:inline;fill:#110e5f;fill-opacity:1;stroke:#110e5f;stroke-width:1.97423625;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">

@@ -4,84 +4,60 @@
 var loadEvents = /*get json object from backend*/'\
 [\
 	{\
-		"Name": "Andhadhun",\
-		"tagLine": "Blind coding",\
+		"Name": "HackRCDU",\
+		"tagLine": "May the code be with you!",\
 		"eventType":"Game",\
-		"description": "This is a blind coding event in which screen will be off and participant have to code.<br>There are two rounds in this event-<br>Round1:Mcq (computer science based)<br>Round 2:Write a c++  code with screen turned off.",\
-		"website":"http://bit.ly/andhadhun_19",\
+		"description": "Solve real-world problems using the power of code! Come in teams of 4 and compete against others to grab prizes and goodies kept just for you. HackRcdu is a 2-day hackathon event that will judge the innovation of your solution and your coding skills(tech stack, algorithms, UI/UX etc.) to award the best among you.",\
+		"website":"#",\
 		"logo":"webiesta.svg"\
-	},\
-	{\
-		"Name": "Chitti2.0",\
-		"tagLine": "The supercool robo car race",\
-		"eventType":"Game",\
-		"description": "This is robo car muzzle competition.In this the Participants will have to bring their own robo cars.The event will contain some checkpoints like bridges, pit and several other kin of obstacles.The participant will be awarded the points depending upon the eloquence and performance of their robo\'s at each stage.Participants can come in team as well as single participation is alaso allowed.",\
-		"website":"http://bit.ly/chitti_19",\
-		"logo":"chitti.svg"\
-	},\
-	{\
-		"Name": "Doodling",\
-		"tagLine": "Drawing competition with a twist in it",\
-		"eventType":"Game",\
-		"description": "Its a drawing event. The theme for doddling is <strong>Rememberance of Computer Science</strong>. The participant will be provided with a sheet and a word and he/she will be asked to doddle around it. The one whoes doodle will be selected by our judges will be declared as a winner.The doodle shoud contain elements of Computer Science in it.",\
-		"website":"http://bit.ly/doodling_19",\
-		"logo":"pencildoodle.svg"\
-	},\
-	{\
-		"Name": "Gen-Tech Quiz",\
-		"tagLine": "Technical and Non-Technical quiz combined",\
-		"eventType":"Game",\
-		"description": "Its a general as well as technical quiz.It will include two rounds Prelims and final.The final round will include some sub-rounds like fastest-finger-firstround etc.",\
-		"website":"http://bit.ly/gentech_19",\
-		"logo":"judgeme.svg"\
-	},\
-	{\
-		"Name": "Omnicoder",\
-		"tagLine": "Multi-language coding",\
-		"eventType":"Game",\
-		"description": "Its a multilingual coding competition. The participant will be given a code and he /she will have to write its solution in as many language they can. The one with more languages and up to mark code will be the winner.It will have two rounds.First round will comprise of MCQ questions and Round second will be actual coding round.",\
-		"website":"http://bit.ly/omni_19",\
-		"logo":"gameofcodes.svg"\
-	},\
-	{\
-		"Name": "Pictionary",\
-		"tagLine": "Quick sketches hilarious guesses",\
-		"eventType":"Game",\
-		"description": "Its a guessing game in which a you will be asked to make pairs with someone and then one of you wil be given a word or a song and you have to make your partner understand it by drawing on board but instead of acting just like in Damsharaz.If your partner guesses it right you will qualify for further words.The more right guesses the more will be the chance of winning.",\
-		"website":"http://bit.ly/pictionary_19",\
-		"logo":"shapes-logo.svg"\
 	},\
 	{\
 		"Name": "QR-Hunt",\
 		"tagLine": "Treasure hunt with a cool technical twist",\
 		"eventType":"Game",\
 		"description": "This is modernistic form of Treasure Hunt where the clues will be hidden throughout the Ramanujan Campus in the form of QR instead of those traditional envelopes. The game will start with a beg-borrow-steel round followed by  <strong>crack the clue</strong> round.The winning team will win exciting cash prizes along with vouchers.",\
-		"website":"http://bit.ly/qrhunt_19",\
+		"website":"#",\
 		"logo":"qrhunt.svg"\
 	},\
 	{\
-		"Name": "Lightening Talk",\
-		"tagLine": "Technical presentation platform",\
+		"Name": "Coding Marathon",\
+		"tagLine": " A pack of coding events",\
 		"eventType":"Game",\
-		"description": "Its a lightening talk event in which you will be given a topic and you need to speak on it and give your views on it. The one who will think out of the box xwill be declared as a winner by our judges.",\
-		"website":"http://bit.ly/techtalks_19",\
-		"logo":"lightningtalks.svg"\
+		"description": "This is a sub-event of Turington and our event stack includes Andhadhun, Web Hunt, OmniCoder. One of their kind! <br> <br> Participate independently in one or all 3! As you like.",\
+		"website":"#",\
+		"logo":"gameofcodes.svg"\
 	},\
 	{\
-		"Name": "Bob-The-Assembler",\
-		"tagLine": "Hardware Assembly",\
+		"Name": "Chitti 3.0",\
+		"tagLine": "Supercool Muzzle robo race.",\
 		"eventType":"Game",\
-		"description": "It is hardware assembling game wherein you will be provided with a system and you have to assemble it in minimum amount of time.The one with the shortest time will win the competition.",\
-		"website":"http://bit.ly/bob_19",\
-		"logo":"processor.svg"\
+		"description": "This is a supercool robo race competition. It is the event where you get to test the efficiency and power, skills of your robo car. It provides you a track for the open your enthusiasm for the rush to win with your robots.<br> Race your bots till the finish line and earn accolades.",\
+		"website":"#",\
+		"logo":"chitti.svg"\
 	},\
 	{\
-		"Name": "Clash of Gamers",\
-		"tagLine": "Adrenaline inside the LAN",\
+		"Name": "Debug The Code",\
+		"tagLine": "Can you assassinate the Bug?",\
 		"eventType":"Game",\
-		"description": "Tournament of many cool games like CS-GO, Mobile-PUBG with cool winning prizes <br><center><ul><li>Jio sims are recommended</li><li>Entry fees is applicable</li></ul></center>",\
-		"website":"http://bit.ly/clash_19",\
-		"logo":"joystick.svg"\
+		"description": "In today’s world anyone can overcome programming errors by using certain tools. Would you dare to take a head on challenge on the work of a lousy programmer? A program with god knows how many errors, without using any outside tools or in-built debugger in the system.",\
+		"website":"#",\
+		"logo":"debug.svg"\
+	},\
+	{\
+		"Name": "Tambola",\
+		"tagLine": "It\'s all about luck",\
+		"eventType":"Game",\
+		"description": "Tambola is played with Numbers (1-90) being called out one at a time and players striking out those Numbers on their Tickets.<br> In order to win in Tambola, you need to match ticket with all the 15 numbers marked first(house full)",\
+		"website":"#",\
+		"logo":"tambola.svg"\
+	},\
+	{\
+		"Name": "Rangbaaz",\
+		"tagLine": "Playing with colours",\
+		"eventType":"Game",\
+		"description": "We have Face painting and Tshirt Painting competition for you. Bring all the exciting colours and your crazy friend with you and win cool prizes!",\
+		"website":"#",\
+		"logo":"pencil-case.svg"\
 	}\
 ]\
 ';
@@ -89,9 +65,33 @@ var loadEvents = /*get json object from backend*/'\
 var loadSponsors = /*get json object from backend*/'\
 [\
 	{\
-		"name":"THE CAMPUS MEDIA",\
-		"logo":"29400420_553066068399537_6444360456395030528_n.jpg",\
-		"website":"https://www.instagram.com/thecampusmedia/",\
+		"name":"WADHWA OPTICS",\
+		"logo":"plain-white-background.jpg",\
+		"website":"#",\
+		"sponsortype": "VR Headset Partner"\
+	},\
+	{\
+		"name":"Coding Blocks",\
+		"logo":"cblogo.png",\
+		"website":"https://codingblocks.com/",\
+		"sponsortype": "Coding Partner"\
+	},\
+	{\
+		"name":"Coding Ninjas",\
+		"logo":"CNLOGO.svg",\
+		"website":"https://www.codingninjas.com/",\
+		"sponsortype": "Coding Partner"\
+	},\
+	{\
+		"name":"Geeks For Geeks",\
+		"logo":"geeksforgeeks-6.png",\
+		"website":"https://www.geeksforgeeks.org/",\
+		"sponsortype": "Coding Partner"\
+	},\
+	{\
+		"name":"Blue leaves",\
+		"logo":"plain-white-background.jpg",\
+		"website":"#",\
 		"sponsortype": "Media Partner"\
 	},\
 	{\
@@ -107,9 +107,9 @@ var loadSponsors = /*get json object from backend*/'\
 		"sponsortype": "Media Partner"\
 	},\
 	{\
-		"name":"DELHI UNIVERSITY UPDATES",\
-		"logo":"DELHIUNIVERSITYUPDATES.jpeg",\
-		"website":"https://www.instagram.com/delhi_university_up_dates/?hl=en",\
+		"name":"THE CAMPUS MEDIA",\
+		"logo":"29400420_553066068399537_6444360456395030528_n.jpg",\
+		"website":"https://www.instagram.com/thecampusmedia/",\
 		"sponsortype": "Media Partner"\
 	},\
 	{\
@@ -119,33 +119,9 @@ var loadSponsors = /*get json object from backend*/'\
 		"sponsortype": "Media Partner"\
 	},\
 	{\
-		"name":"DU NEWS",\
-		"logo":"50252762_834476876900969_2318548179605258240_n.jpg",\
-		"website":"https://www.instagram.com/delhi_university_news/?hl=en",\
-		"sponsortype": "Media Partner"\
-	},\
-	{\
-		"name":"CODING BLOCKS",\
-		"logo":"cblogo.png",\
-		"website":"https://codingblocks.com/",\
-		"sponsortype": "Media Partner"\
-	},\
-	{\
-		"name":"CODING NINJAS",\
-		"logo":"CNLOGO.svg",\
-		"website":"https://www.codingninjas.com/",\
-		"sponsortype": "Media Partner"\
-	},\
-	{\
-		"name":"GEEKS FOR GEEKS",\
-		"logo":"geeksforgeeks-6.png",\
-		"website":"https://www.geeksforgeeks.org/",\
-		"sponsortype": "Media Partner"\
-	},\
-	{\
-		"name":"WADHWA OPTICS",\
-		"logo":"",\
-		"website":"",\
+		"name":"DU Assassins",\
+		"logo":"du-assassins.jpg",\
+		"website":"https://www.instagram.com/du_assassins/",\
 		"sponsortype": "Media Partner"\
 	}\
 ]\
@@ -173,7 +149,7 @@ function updateEvents()
 		text+= '<div class="eventName">'+events[i].Name+'</div>';
 		text+= '<div class="eventTagLine">&lt;'+events[i].tagLine+'/&gt;</div>';
 		text+= '<div class="eventDescription">'+events[i].description+'</div>';
-		text+= '<button href="'+events[i].website+'">Register Now</button>';
+		text+= '<button href="'+events[i].website+'">Link coming soon</button>';
 		text+= '</center></div>';
 		text+= '</div>';
 

@@ -1,8 +1,32 @@
 [
 	{
-		"name":"THE CAMPUS MEDIA",
-		"logo":"29400420_553066068399537_6444360456395030528_n.jpg",
-		"website":"https://www.instagram.com/thecampusmedia/",
+		"name":"WADHWA OPTICS",
+		"logo":"plain-white-background.jpg",
+		"website":"#",
+		"sponsortype": "VR Headset Partner"
+	},
+	{
+		"name":"Coding Blocks",
+		"logo":"cblogo.png",
+		"website":"https://codingblocks.com/",
+		"sponsortype": "Coding Partner"
+	},
+	{
+		"name":"Coding Ninjas",
+		"logo":"CNLOGO.svg",
+		"website":"https://www.codingninjas.com/",
+		"sponsortype": "Coding Partner"
+	},
+	{
+		"name":"Geeks For Geeks",
+		"logo":"geeksforgeeks-6.png",
+		"website":"https://www.geeksforgeeks.org/",
+		"sponsortype": "Coding Partner"
+	},
+	{
+		"name":"Blue leaves",
+		"logo":"plain-white-background.jpg",
+		"website":"#",
 		"sponsortype": "Media Partner"
 	},
 	{
@@ -18,9 +42,9 @@
 		"sponsortype": "Media Partner"
 	},
 	{
-		"name":"DELHI UNIVERSITY UPDATES",
-		"logo":"DELHIUNIVERSITYUPDATES.jpeg",
-		"website":"https://www.instagram.com/delhi_university_up_dates/?hl=en",
+		"name":"THE CAMPUS MEDIA",
+		"logo":"29400420_553066068399537_6444360456395030528_n.jpg",
+		"website":"https://www.instagram.com/thecampusmedia/",
 		"sponsortype": "Media Partner"
 	},
 	{
@@ -30,33 +54,9 @@
 		"sponsortype": "Media Partner"
 	},
 	{
-		"name":"DU NEWS",
-		"logo":"50252762_834476876900969_2318548179605258240_n.jpg",
-		"website":"https://www.instagram.com/delhi_university_news/?hl=en",
-		"sponsortype": "Media Partner"
-	},
-	{
-		"name":"CODING BLOCKS",
-		"logo":"cblogo.png",
-		"website":"https://codingblocks.com/",
-		"sponsortype": "Media Partner"
-	},
-	{
-		"name":"CODING NINJAS",
-		"logo":"CNLOGO.svg",
-		"website":"https://www.codingninjas.com/",
-		"sponsortype": "Media Partner"
-	},
-	{
-		"name":"GEEKS FOR GEEKS",
-		"logo":"geeksforgeeks-6.png",
-		"website":"https://www.geeksforgeeks.org/",
-		"sponsortype": "Media Partner"
-	},
-	{
-		"name":"WADHWA OPTICS",
-		"logo":"",
-		"website":"",
+		"name":"DU Assassins",
+		"logo":"du-assassins.jpg",
+		"website":"https://www.instagram.com/du_assassins/",
 		"sponsortype": "Media Partner"
 	}
 ]
