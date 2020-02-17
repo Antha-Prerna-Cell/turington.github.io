@@ -1,29 +1,5 @@
 [
 	{
-		"name":"CHAAYOS",
-		"logo":"Chaayos-logo-tea.png",
-		"website":"https://www.chaayos.com/",
-		"sponsortype": "Food Partner"
-	},
-	{
-		"name":"THE COLLEGE FEVER",
-		"logo":"TheCollegeFever-Logo-200x200.png",
-		"website":"https://www.thecollegefever.com/",
-		"sponsortype": "Online Ticketing Partner"
-	},
-	{
-		"name":"TRIPPIN EVENTS",
-		"logo":"TRIPPINEVENTS.png",
-		"website":"http://trippinevents.com/",
-		"sponsortype": "TRAVEL Partner"
-	},
-	{
-		"name":"DU FACTZ",
-		"logo":"VrcTAKEg.jpg",
-		"website":"https://www.instagram.com/du_factz/",
-		"sponsortype": "Media Partner"
-	},
-	{
 		"name":"THE CAMPUS MEDIA",
 		"logo":"29400420_553066068399537_6444360456395030528_n.jpg",
 		"website":"https://www.instagram.com/thecampusmedia/",
@@ -60,9 +36,27 @@
 		"sponsortype": "Media Partner"
 	},
 	{
-		"name":"DU LATEST UPDATES",
-		"logo":"50088372_350676992186360_7019647510100574208_n.jpg",
-		"website":"https://www.instagram.com/dulatestupdates/?hl=en",
+		"name":"CODING BLOCKS",
+		"logo":"cblogo.png",
+		"website":"https://codingblocks.com/",
+		"sponsortype": "Media Partner"
+	},
+	{
+		"name":"CODING NINJAS",
+		"logo":"CNLOGO.svg",
+		"website":"https://www.codingninjas.com/",
+		"sponsortype": "Media Partner"
+	},
+	{
+		"name":"GEEKS FOR GEEKS",
+		"logo":"geeksforgeeks-6.png",
+		"website":"https://www.geeksforgeeks.org/",
+		"sponsortype": "Media Partner"
+	},
+	{
+		"name":"WADHWA OPTICS",
+		"logo":"",
+		"website":"",
 		"sponsortype": "Media Partner"
 	}
 ]
