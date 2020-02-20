@@ -157,7 +157,7 @@ function updateEvents()
 		text+= '<div class="eventName">'+events[i].Name+'</div>';
 		text+= '<div class="eventTagLine">&lt;'+events[i].tagLine+'/&gt;</div>';
 		text+= '<div class="eventDescription">'+events[i].description+'</div>';
-		text+= '<button href="'+events[i].website+'">Link coming soon</button>';
+		text+= '<button href="'+events[i].website+'">Register Now</button>';
 		text+= '</center></div>';
 		text+= '</div>';
 
