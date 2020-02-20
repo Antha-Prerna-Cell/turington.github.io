@@ -8,7 +8,7 @@ var loadEvents = /*get json object from backend*/'\
 		"tagLine": "May the code be with you!",\
 		"eventType":"Game",\
 		"description": "Solve real-world problems using the power of code! Come in teams of 4 and compete against others to grab prizes and goodies kept just for you. HackRcdu is a 2-day hackathon event that will judge the innovation of your solution and your coding skills(tech stack, algorithms, UI/UX etc.) to award the best among you.",\
-		"website":"#",\
+		"website":"https://hackrcdu.turington.in/",\
 		"logo":"webiesta.svg"\
 	},\
 	{\
@@ -16,7 +16,7 @@ var loadEvents = /*get json object from backend*/'\
 		"tagLine": "Treasure hunt with a cool technical twist",\
 		"eventType":"Game",\
 		"description": "This is modernistic form of Treasure Hunt where the clues will be hidden throughout the Ramanujan Campus in the form of QR instead of those traditional envelopes. The game will start with a beg-borrow-steel round followed by  <strong>crack the clue</strong> round.The winning team will win exciting cash prizes along with vouchers.",\
-		"website":"#",\
+		"website":"https://forms.gle/B7b3ARwC2DmvsQHk9",\
 		"logo":"qrhunt.svg"\
 	},\
 	{\
@@ -24,7 +24,7 @@ var loadEvents = /*get json object from backend*/'\
 		"tagLine": " A pack of coding events",\
 		"eventType":"Game",\
 		"description": "This is a sub-event of Turington and our event stack includes Andhadhun, Web Hunt, OmniCoder. One of their kind! <br> <br> Participate independently in one or all 3! As you like.",\
-		"website":"#",\
+		"website":"https://forms.gle/B7b3ARwC2DmvsQHk9",\
 		"logo":"gameofcodes.svg"\
 	},\
 	{\
@@ -32,7 +32,7 @@ var loadEvents = /*get json object from backend*/'\
 		"tagLine": "Supercool Muzzle robo race.",\
 		"eventType":"Game",\
 		"description": "This is a supercool robo race competition. It is the event where you get to test the efficiency and power, skills of your robo car. It provides you a track for the open your enthusiasm for the rush to win with your robots.<br> Race your bots till the finish line and earn accolades.",\
-		"website":"#",\
+		"website":"https://forms.gle/B7b3ARwC2DmvsQHk9",\
 		"logo":"chitti.svg"\
 	},\
 	{\
@@ -40,15 +40,15 @@ var loadEvents = /*get json object from backend*/'\
 		"tagLine": "Can you assassinate the Bug?",\
 		"eventType":"Game",\
 		"description": "In today’s world anyone can overcome programming errors by using certain tools. Would you dare to take a head on challenge on the work of a lousy programmer? A program with god knows how many errors, without using any outside tools or in-built debugger in the system.",\
-		"website":"#",\
-		"logo":"debug.svg"\
+		"website":"https://forms.gle/B7b3ARwC2DmvsQHk9",\
+		"logo":"chitti.svg"\
 	},\
 	{\
 		"Name": "Tambola",\
 		"tagLine": "It\'s all about luck",\
 		"eventType":"Game",\
 		"description": "Tambola is played with Numbers (1-90) being called out one at a time and players striking out those Numbers on their Tickets.<br> In order to win in Tambola, you need to match ticket with all the 15 numbers marked first(house full)",\
-		"website":"#",\
+		"website":"https://forms.gle/B7b3ARwC2DmvsQHk9",\
 		"logo":"tambola.svg"\
 	},\
 	{\
@@ -56,8 +56,16 @@ var loadEvents = /*get json object from backend*/'\
 		"tagLine": "Playing with colours",\
 		"eventType":"Game",\
 		"description": "We have Face painting and Tshirt Painting competition for you. Bring all the exciting colours and your crazy friend with you and win cool prizes!",\
-		"website":"#",\
+		"website":"https://forms.gle/B7b3ARwC2DmvsQHk9",\
 		"logo":"pencil-case.svg"\
+	},\
+	{\
+		"Name": "UI/UX-Designer Event",\
+		"tagLine": "Blurring the line b/w art & technology",\
+		"eventType":"Game",\
+		"description": "Unleash your creativity with UI/UX- our Designer event! Create designs for Web/Mobile Apps on enthralling themes and get a chance to bag cash prizes worth 2500!",\
+		"website":"https://forms.gle/B7b3ARwC2DmvsQHk9",\
+		"logo":"designer.svg"\
 	}\
 ]\
 ';
@@ -90,8 +98,8 @@ var loadSponsors = /*get json object from backend*/'\
 	},\
 	{\
 		"name":"Blue leaves",\
-		"logo":"plain-white-background.jpg",\
-		"website":"#",\
+		"logo":"blue-leaves.jpg",\
+		"website":"https://www.instagram.com/blueleavescommunity/",\
 		"sponsortype": "Media Partner"\
 	},\
 	{\
