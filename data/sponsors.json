@@ -24,6 +24,60 @@
 		"sponsortype": "Coding Partner"
 	},
 	{
+		"name":"Bugsee",
+		"logo":"bugsee.png",
+		"website":"https://www.bugsee.com/",
+		"sponsortype": "Event Supporter"
+	},
+	{
+		"name":"Creative tim",
+		"logo":"creative-tim.png",
+		"website":"https://www.creative-tim.com/",
+		"sponsortype": "Event Supporter"
+	},
+	{
+		"name":"CloudSploit",
+		"logo":"cloudsploit.png",
+		"website":"https://cloudsploit.com/",
+		"sponsortype": "Event Supporter"
+	},
+	{
+		"name":"Sashido",
+		"logo":"sashido.png",
+		"website":"https://www.sashido.io/en/",
+		"sponsortype": "Event Supporter"
+	},
+	{
+		"name":"OZ Tattos",
+		"logo":"qztattos.jpg",
+		"website":"#",
+		"sponsortype": "Event Supporter"
+	},
+	{
+		"name":"Mirror Shield",
+		"logo":"microshield.jpg",
+		"website":"#",
+		"sponsortype": "Event Supporter"
+	},
+	{
+		"name":"Devfolio",
+		"logo":"devfolio.png",
+		"website":"https://devfolio.co/",
+		"sponsortype": "Alpha Sponsor"
+	},
+	{
+		"name":"Fold",
+		"logo":"fold-logo.svg",
+		"website":"https://fold.money/",
+		"sponsortype": "Beta Sponsor"
+	},
+	{
+		"name":"Matic",
+		"logo":"matic.png",
+		"website":"https://matic.network/",
+		"sponsortype": "Beta Sponsor"
+	},
+	{
 		"name":"Blue leaves",
 		"logo":"blue-leaves.jpg",
 		"website":"https://www.instagram.com/blueleavescommunity/",
