@@ -1,10 +1,66 @@
 <!DOCTYPE html>
 <html>
-<html>
+<head>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+<link href='https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css'>
+ 
+ <link href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css'>
+  
+    <link href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css'>
+    <script src='https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.bundle.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js'></script>
+    <script src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js'></script>
+    
+    <style type="text/css">
+        @import url('https://fonts.googleapis.com/css?family=Rubik&display=swap');
+
+ .footer {
+     background: linear-gradient(0deg, #fff, 50%, #DEEEFE);
+     font-family: 'Rubik', sans-serif;
+     background: #455A64;
+     height: 100!important
+ }
+
+ .container-fluid {
+     overflow: hidden;
+     margin-top: 25rem;
+     background: #262626;
+     color: #627482 !important;
+     margin-bottom: 0;
+     padding-bottom: 0
+ }
+
+ small {
+     font-size: calc(12px + (15 - 12) * ((100vw - 360px) / (1600 - 360))) !important
+ }
+
+ .bold-text {
+     color: #989c9e !important
+ }
+
+ .mt-55 {
+     margin-top: calc(50px + (60 - 50) * ((100vw - 360px) / (1600 - 360))) !important
+ }
+
+ h3 {
+     font-size: calc(34px + (40 - 34) * ((100vw - 360px) / (1600 - 360))) !important
+ }
+
+ .social {
+     font-size: 2.1rem !important
+ }
+
+ .rights {
+     font-size: calc(10px + (12 - 10) * ((100vw - 3.6rem) / (1600 - 360))) !important
+ }
+	
+}
+    </style>
 	<meta charset="UTF-8">
 	<meta content="width=device-width, initial-scale=1" name="viewport">
 	<meta name="keywords" content="Turington, Ramanujan College, Delhi University, Alan Turing, Clash of Gamers, COG, Chitti 2.0, Robot car racing, Coding, PHP, C++, javascript, JAVA, Python, Ligtening Talks, Pictionary, Assemble, Pubg, Counter Strike, Treasure Hunt, QR Hunt, QR, Url hunter, web hunter, RC-Hack, Doodling, Ramanujan, DU, Technical, Tech, Fest">
-	<meta name="title" content="Turington 2k19 — The annual technical fest of Ramanujan College">
+	<meta name="title" content="Turington 2k21 — The annual technical fest of Ramanujan College">
 	<meta name="description" content="The annual technical fest of Department of Computer Science, Ramanujan College, Delhi University. Turington is the annual technical fest of Ramanujan College. With many technical and our signature non-technical events with our own technical innovation. Prizes of 1 lac at stake. Come and experience the best time of your life at Turington 2k20.">
 	
 	<meta property="og:type" content="website">
@@ -23,12 +79,13 @@
 	<meta name="twitter:type" content="website">
 	
 	<meta name="twitter:image:alt" content="Turington 2k19 logo">
-	<title>TuringTon 2k20</title>
+	<title>TuringTon 2k21</title>
 	<!-- Logo on tab -->
 	<link rel="icon" href="img/turington logo.jpeg">
 	<!-- Add social media icon library -->
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	<!--our css files-->
+
 	<link rel="stylesheet" href="stylesheets/index.css">
 	<link rel="stylesheet" href="stylesheets/contacts.css">
 	<link rel="stylesheet" href="stylesheets/navBar.css">
@@ -41,7 +98,11 @@
 	<link href="https://fonts.googleapis.com/css?family=Montserrat|Quicksand" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Chelsea+Market" rel="stylesheet">
 	<script type="text/javascript" src="data.js"></script>
-</html>
+	
+	<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+	<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+</head>
+
 <body>
 
 		<div id="intro">
@@ -53,7 +114,7 @@
 				<div id="turingtonHeading">
 					Turington
 				</div>
-				27<sup>th</sup> - 28<sup>th</sup> Feb '20<br>
+			3<sup>th</sup> - 4<sup>th</sup> and	7<sup>th</sup> - 8<sup>th</sup> April '21<br>
 				<hr class="" style="width: 20%; background-color: white; color: white; ">
 
 				<a href="https://goo.gl/maps/BLQd36xpo532" class="fa fa-2x fa-map-marker" style="display: inline;" ></a>
@@ -109,7 +170,7 @@
 				<a href="https://www.flickr.com/photos/187080632@N03/albums">GLIMPSES</a>
 				
 				<a href="index.html#sponsors">SPONSORS</a>
-				<a href="index.html#contacts">CONTACTS</a>
+				<a href="index.html#contact">CONTACTS</a>
 				</center>
 			</div>
 
@@ -132,15 +193,17 @@
 
 
 
-	<div id="about">
+	<div id="about" data-aos="fade-up">
 		<p class="heading" >&lt; About /&gt;</p>
 	 Named after the greatest computer scientist of all times, Alan Turing, Turington is an inter college fest organized by the Department of Computer Science, Ramanujan College (University of Delhi). Turington is about showing off the research and innovations. It is about promoting the technology on the largest possible scale to the common in the best possible way. It is about celebration, also promotion of hard-work. We invite people, scholars and students from all fields to visit as audience.
 	</div>
 
 	<div id="events">
-		<p class="heading">&lt; Our Event Box /&gt;</p>
-
-		<div id="eventsContainer"></div>
+		<p class="heading"data-aos="fade-up">&lt; Our Event Box /&gt;</p>
+     <marquee behavior="alternate" scrollamount=4>
+		<p  style="text-decoration: underline; font-weight: bold;">Coding marathon is on 31'th-4th april and rest of the events are on 7th-8th april</p>
+		</marquee>
+		<div id="eventsContainer" data-aos="fade-up"></div>
 	</div>
 
 
@@ -153,25 +216,25 @@
 
 	
 
-	<div id="sponsors">
-		<p class="heading" >&lt; Sponsors /&gt;</p>
-
-		<div id="sponsorsContainer">
-			
-		</div>
-	</div>
+	
+		<div class="grid"id="sponsors">
+			<p class="heading" data-aos="fade-up">&lt; Sponsors /&gt;</p>
+  <div id="sponsorsContainer" data-aos="fade-up"> </div>
+  
+</div>
 	<script>
 		getSponsors();
 	</script>
-
+  
 	<div>
 		<marquee behavior="alternate" scrollamount=4>
-		<p  style="text-decoration: underline; font-weight: bold;">Want to Sponsor us or install a Stall ? Contact us - +91 72918 48772 or mail at turingtonreboot@gmail.com</p>
+		<p  style="text-decoration: underline; font-weight: bold;">Want to Sponsor us or install a Stall ? Contact us - +91 72918 48772 or mail at turingtonreboot@gmail.com
+		(Not in this covid time)</p>
 		</marquee>
 	</div>
 
 
-	<div id="contacts">
+	<!--<div id="contacts">
 
 
 		<div id="boxContainer">
@@ -181,7 +244,7 @@
 				<a class="quick-links" href="index.html" style="font-size: 1.5em">Turington</a>
 		</div>
 		<br>
-
+ 
 
 		<div class="box">
 				<a class="quick-links" href="index.html#intro">Home</a>
@@ -191,7 +254,7 @@
 				<a class="quick-links" href="index.html#about">About</a>
 		</div>
 		<br>
-		<!--
+		
 		<div class="box">
 				<a class="quick-links" href="speakers.html">Speakers</a>
 
@@ -211,7 +274,7 @@
 				<a class="quick-links small-links" href="#hrHead">Human resource head</a>
 		</div>
 		<br>
-	-->
+	
 
 		<div class="box">
 				<a class="quick-links" href="index.html#events">Events</a>
@@ -283,7 +346,7 @@
 
 
 			<div id="footer-text" >
-				&copy; 2020 Turington | Turing the Code Breaker<!--<a href="">Policy Privacy</a> | <a href="">Terms of Use</a> | <a href="" > Contact </a> -->
+				&copy; 2020 Turington | Turing the Code Breaker<a href="">Policy Privacy</a> | <a href="">Terms of Use</a> | <a href="" > Contact </a> 
 			</div>
 				<a href="https://www.youtube.com/channel/UCEJ3JccswK-90yLWip1Nf_w" class="fa fa-2x fa-youtube fa-right"></a>
 				<a href="https://twitter.com/Turington_" class="fa fa-2x fa-twitter fa-right"></a>
@@ -294,6 +357,79 @@
 
 	</div>
 
+-->
 
+<div class="footer">
+<div class="container-fluid pb-0 mb-0 justify-content-center text-light ">
+     <footer>
+         <div class="row my-5 justify-content-center py-5">
+             <div class="col-11">
+                 <div class="row ">
+                     <div class="col-xl-8 col-md-4 col-sm-4 col-12 my-auto mx-auto a">
+                         <h3 class="text-muted mb-md-0 mb-5 bold-text">Turington
+ .</h3>
+                     </div>
+                     <div class="col-xl-2 col-md-4 col-sm-4 col-12">
+                         <h6 class="mb-3 mb-lg-4 bold-text "><b><a class="quick-links" href="index.html#events">Events</a></b></h6>
+                         <ul class="list-unstyled">
+                             <li><a class="quick-links small-links" href="https://forms.gle/B7b3ARwC2DmvsQHk9">Coding Marathon</a></li>
+                             <li><a class="quick-links small-links" href="https://forms.gle/B7b3ARwC2DmvsQHk9">Oline Scavenger hunt</a></li>
+                             <li><a class="quick-links small-links" href="https://forms.gle/B7b3ARwC2DmvsQHk9">Web Designing competition</a>
+				</li>
+                             <li><a class="quick-links small-links" href="https://forms.gle/B7b3ARwC2DmvsQHk9">Meme making competition</a>
+				</li>
+                             <li><a class="quick-links small-links" href="https://forms.gle/B7b3ARwC2DmvsQHk9">Logo-Designer Event</a></li>
+                             <li><a class="quick-links small-links" href="https://forms.gle/B7b3ARwC2DmvsQHk9">Clash Of Gamers</a></li>
+                             <li><a class="quick-links small-links" href="https://forms.gle/B7b3ARwC2DmvsQHk9">Tech content writing</a></li>
+                         </ul>
+                     </div>
+                     <div class="col-xl-2 col-md-4 col-sm-4 col-12">
+                         <h6 class="mb-3 mb-lg-4 text-muted bold-text mt-sm-0 mt-5"><b>Sponsers</b></h6>
+                         <a class="quick-links small-links" href="https://www.codingninjas.com/">Coding Ninjas</a>
+				<a class="quick-links small-links" href="https://codingblocks.com/">Coding Blocks</a>
+				<a class="quick-links small-links" href="#">Wadhwa Optics</a>
+				<a class="quick-links small-links" href="https://www.geeksforgeeks.org/">Geeks For Geeks</a>
+				<a class="quick-links small-links" href="https://www.bugsee.com/">Bugsee</a>
+				<a class="quick-links small-links" href="https://www.creative-tim.com/">Creative Tim</a>
+				<a class="quick-links small-links" href="https://cloudsploit.com/">CloudSploit</a>
+				<a class="quick-links small-links" href="https://www.sashido.io/en/">Sashido</a>
+				<a class="quick-links small-links" href="https://turington.in/#">OZ Tattos</a>
+				<a class="quick-links small-links" href="https://turington.in/#">Mirror Shield</a>
+				<a class="quick-links small-links" href="https://devfolio.co/">Devfolio</a>
+				<a class="quick-links small-links" href="https://fold.money/">Fold</a>
+				<a class="quick-links small-links" href="https://matic.network/">Matic</a>
+                   <a class="quick-links" href="index.html#sponsors">Media Partners</a>
+				<a class="quick-links small-links" href="https://www.instagram.com/thecampusmedia/">The Campus Media</a>
+				<a class="quick-links small-links" href="https://www.instagram.com/duvibes_">DU Vibes</a>
+				<a class="quick-links small-links" href="https://www.instagram.com/du_beat">DU Beat</a>
+				<a class="quick-links small-links" href="https://www.instagram.com/duexpress/">DU Express</a>
+				<a class="quick-links small-links" href="https://www.instagram.com/du_assassins/">DU Assassins</a>
+				<a class="quick-links small-links" href="https://www.instagram.com/blueleavescommunity/">Blue leaves</a>
+                     </div>
+                 </div>
+                 <div class="row ">
+                    
+                     <div>
+                     <div class="col-xl-2 col-md-4 col-sm-4 col-auto order-1 align-self-end ">
+                         <h6 class="mt-55 mt-2 text-muted bold-text"><b>MAIL US</b></h6><small> <span><i  class="fa fa-2x fa-envelope-o mail" aria-hidden="true"></i></span><a href="mailto:turingtonreboot@gmail.com">mailto:turingtonreboot@gmail.com</a></small>
+                     </div>
+                 </div>
+                     <div>
+                 </div>
+                <div >
+                 <div class="col-xl-8 col-md-4 col-sm-4 col-auto my-md-0 mt-5 order-sm-1 order-3 align-self-end">
+                         <p class="social text-muted mb-0 pb-0 bold-text" id="contact"> <span class="mx-2"><a href="https://www.facebook.com/Turingtonreboot/"><i class="fa fa-facebook" aria-hidden="true"></i></a></span> <span class="mx-2"><a href="https://www.youtube.com/channel/UCEJ3JccswK-90yLWip1Nf_w"><i class="fa fa-youtube-square" aria-hidden="true"></i></a></span> <span class="mx-2"><a href="https://twitter.com/Turington_"><i class="fa fa-twitter" aria-hidden="true"></i></a></span> <span class="mx-2"><a href="https://www.instagram.com/turington.rcdu/" ><i class="fa fa-instagram" aria-hidden="true"></i></a></span> </p><small class="rights"><span>&#174;</span> © 2020 Turington | Turing the Code Breaker.</small>
+                    </div>
+                     </div>
+                 </div>
+             </div>
+         </div>
+     </footer>
+ </div>
+ </div>
+ <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+  <script>
+    AOS.init({duration:2000,offset:300});
+  </script>
 </body>
 </html>

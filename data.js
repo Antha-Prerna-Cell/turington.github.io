@@ -4,68 +4,44 @@
 var loadEvents = /*get json object from backend*/'\
 [\
 	{\
-		"Name": "HackRCDU",\
+		"Name": "Coding marathon",\
 		"tagLine": "May the code be with you!",\
 		"eventType":"Game",\
-		"description": "Solve real-world problems using the power of code! Come in teams of 4 and compete against others to grab prizes and goodies kept just for you. HackRcdu is a 2-day hackathon event that will judge the innovation of your solution and your coding skills(tech stack, algorithms, UI/UX etc.) to award the best among you.",\
-		"website":"https://hackrcdu.turington.in/",\
+		"description": "A three round tech marathon. Round 1 will be a bebugging round. Round 2 will be a url treasure hunt. And the final round will me the main coding round where the contenders will be solving the problem statement provided.",\
+		"website":"https://forms.gle/wEvUij4zMGptNA9e7",\
 		"logo":"webiesta.svg"\
 	},\
 	{\
-		"Name": "QR-Hunt",\
-		"tagLine": "Treasure hunt with a cool technical twist",\
-		"eventType":"Game",\
-		"description": "This is modernistic form of Treasure Hunt where the clues will be hidden throughout the Ramanujan Campus in the form of QR instead of those traditional envelopes. The game will start with a beg-borrow-steel round followed by  <strong>crack the clue</strong> round.The winning team will win exciting cash prizes along with vouchers.",\
-		"website":"https://forms.gle/B7b3ARwC2DmvsQHk9",\
-		"logo":"qrhunt.svg"\
-	},\
-	{\
-		"Name": "Coding Marathon",\
-		"tagLine": " A pack of coding events",\
-		"eventType":"Game",\
-		"description": "This is a sub-event of Turington and our event stack includes Andhadhun, Web Hunt, OmniCoder. One of their kind! <br> <br> Participate independently in one or all 3! As you like.",\
-		"website":"https://forms.gle/B7b3ARwC2DmvsQHk9",\
-		"logo":"gameofcodes.svg"\
-	},\
-	{\
-		"Name": "Chitti 3.0",\
-		"tagLine": "Supercool Muzzle robo race.",\
-		"eventType":"Game",\
-		"description": "This is a supercool robo race competition. It is the event where you get to test the efficiency and power, skills of your robo car. It provides you a track for the open your enthusiasm for the rush to win with your robots.<br> Race your bots till the finish line and earn accolades.",\
-		"website":"https://forms.gle/B7b3ARwC2DmvsQHk9",\
-		"logo":"chitti.svg"\
-	},\
-	{\
-		"Name": "Debug The Code",\
-		"tagLine": "Can you assassinate the Bug?",\
-		"eventType":"Game",\
-		"description": "In today’s world anyone can overcome programming errors by using certain tools. Would you dare to take a head on challenge on the work of a lousy programmer? A program with god knows how many errors, without using any outside tools or in-built debugger in the system.",\
-		"website":"https://forms.gle/B7b3ARwC2DmvsQHk9",\
-		"logo":"chitti.svg"\
-	},\
-	{\
-		"Name": "Tambola",\
-		"tagLine": "It\'s all about luck",\
-		"eventType":"Game",\
-		"description": "Tambola is played with Numbers (1-90) being called out one at a time and players striking out those Numbers on their Tickets.<br> In order to win in Tambola, you need to match ticket with all the 15 numbers marked first(house full)",\
-		"website":"https://forms.gle/B7b3ARwC2DmvsQHk9",\
-		"logo":"tambola.svg"\
-	},\
-	{\
-		"Name": "Rangbaaz",\
+		"Name": "Web designing competition",\
 		"tagLine": "Playing with colours",\
 		"eventType":"Game",\
-		"description": "We have Face painting and Tshirt Painting competition for you. Bring all the exciting colours and your crazy friend with you and win cool prizes!",\
-		"website":"https://forms.gle/B7b3ARwC2DmvsQHk9",\
+		"description": "The participants will be provided with a problem statement on the spot and they will be making a webpage for the same. The use of pre-made templates or WordPress will be monitored.",\
+		"website":"https://forms.gle/FXh6XjfaUc5yimT7A",\
 		"logo":"pencil-case.svg"\
 	},\
 	{\
-		"Name": "UI/UX-Designer Event",\
+		"Name": "Logo designing competition",\
 		"tagLine": "Blurring the line b/w art & technology",\
 		"eventType":"Game",\
-		"description": "Unleash your creativity with UI/UX- our Designer event! Create designs for Web/Mobile Apps on enthralling themes and get a chance to bag cash prizes worth 2500!",\
-		"website":"https://forms.gle/B7b3ARwC2DmvsQHk9",\
+		"description": "It will be a graphic designing competition where the participants will be given a time frame to make a logo for the department\'s society, Quiksort. ",\
+		"website":"https://forms.gle/BwX3hFrhwCBfJ5Lx9",\
 		"logo":"designer.svg"\
+	},\
+	{\
+	 	"Name": "Omnicoder",\
+	 	"tagLine": "Multi-language coding",\
+	 	"eventType":"Game",\
+	"description": "Its a multilingual coding competition. The participant will be given a code and he /she will have to write its solution in as many language they can. The one with more languages and up to mark code will be the winner.It will have two rounds.First round will comprise of MCQ questions and Round second will be actual coding round.",\
+	 	"website":"https://forms.gle/XTFTYNv6i8bcYWLk6",\
+		"logo":"processor.svg"\
+ },\
+ {\
+		"Name": "Pen the tech",\
+		"tagLine": "Tech Content writing",\
+		"eventType":"Game",\
+		"description": "The contestants will be writing a blog on the topic (It will be given on spot!).",\
+		"website":"https://forms.gle/ugTaJuVjCxkiQy8W7",\
+		"logo":"gameofcodes.svg"\
 	}\
 ]\
 ';
@@ -73,118 +49,10 @@ var loadEvents = /*get json object from backend*/'\
 var loadSponsors = /*get json object from backend*/'\
 [\
 	{\
-		"name":"WADHWA OPTICS",\
-		"logo":"plain-white-background.jpg",\
-		"website":"#",\
-		"sponsortype": "VR Headset Partner"\
-	},\
-	{\
-		"name":"Coding Blocks",\
-		"logo":"cblogo.png",\
-		"website":"https://codingblocks.com/",\
-		"sponsortype": "Coding Partner"\
-	},\
-	{\
 		"name":"Coding Ninjas",\
 		"logo":"CNLOGO.svg",\
 		"website":"https://www.codingninjas.com/",\
 		"sponsortype": "Coding Partner"\
-	},\
-	{\
-		"name":"Geeks For Geeks",\
-		"logo":"geeksforgeeks-6.png",\
-		"website":"https://www.geeksforgeeks.org/",\
-		"sponsortype": "Coding Partner"\
-	},\
-	{\
-		"name":"Bugsee",\
-		"logo":"bugsee.png",\
-		"website":"https://www.bugsee.com/",\
-		"sponsortype": "Event Supporter"\
-	},\
-	{\
-		"name":"Creative tim",\
-		"logo":"creative-tim.png",\
-		"website":"https://www.creative-tim.com/",\
-		"sponsortype": "Event Supporter"\
-	},\
-	{\
-		"name":"CloudSploit",\
-		"logo":"cloudsploit.png",\
-		"website":"https://cloudsploit.com/",\
-		"sponsortype": "Event Supporter"\
-	},\
-	{\
-		"name":"Sashido",\
-		"logo":"sashido.png",\
-		"website":"https://www.sashido.io/en/",\
-		"sponsortype": "Event Supporter"\
-	},\
-	{\
-		"name":"OZ Tattos",\
-		"logo":"qztattos.jpg",\
-		"website":"#",\
-		"sponsortype": "Event Supporter"\
-	},\
-	{\
-		"name":"Mirror Shield",\
-		"logo":"microshield.jpg",\
-		"website":"#",\
-		"sponsortype": "Event Supporter"\
-	},\
-	{\
-		"name":"Devfolio",\
-		"logo":"devfolio.png",\
-		"website":"https://devfolio.co/",\
-		"sponsortype": "Alpha Sponsor"\
-	},\
-	{\
-		"name":"Fold",\
-		"logo":"fold-logo.svg",\
-		"website":"https://fold.money/",\
-		"sponsortype": "Beta Sponsor"\
-	},\
-	{\
-		"name":"Matic",\
-		"logo":"matic.png",\
-		"website":"https://matic.network/",\
-		"sponsortype": "Beta Sponsor"\
-	},\
-	{\
-		"name":"Blue leaves",\
-		"logo":"blue-leaves.jpg",\
-		"website":"https://www.instagram.com/blueleavescommunity/",\
-		"sponsortype": "Media Partner"\
-	},\
-	{\
-		"name":"DU VIBES",\
-		"logo":"DUVIBES.jpeg",\
-		"website":"https://www.instagram.com/duvibes_/?hl=en",\
-		"sponsortype": "Media Partner"\
-	},\
-	{\
-		"name":"DU BEAT",\
-		"logo":"36924384_213064919352891_676374602280075264_n.jpg",\
-		"website":"https://www.instagram.com/du_beat/?hl=ens",\
-		"sponsortype": "Media Partner"\
-	},\
-	{\
-		"name":"THE CAMPUS MEDIA",\
-		"logo":"29400420_553066068399537_6444360456395030528_n.jpg",\
-		"website":"https://www.instagram.com/thecampusmedia/",\
-		"sponsortype": "Media Partner"\
-	},\
-	{\
-		"name":"DU EXPRESS",\
-		"logo":"51605493_299705310603864_1920568990834114244_n.jpg",\
-		"website":"https://www.instagram.com/duexpress/?hl=en",\
-		"sponsortype": "Media Partner"\
-	},\
-	{\
-		"name":"DU Assassins",\
-		"logo":"du-assassins.jpg",\
-		"website":"https://www.instagram.com/du_assassins/",\
-		"sponsortype": "Media Partner"\
 	}\
 ]\
 ';
@@ -350,7 +218,7 @@ function getGlimpses()
 
 function setTimer()
 {
-	var festDate = new Date("Feb 28, 2020 10:00:00").getTime();
+	var festDate = new Date("April 8, 2021 10:00:00").getTime();
 	var countdown = setInterval(function() {
 		var now = new Date().getTime();
 		var distance = festDate - now;

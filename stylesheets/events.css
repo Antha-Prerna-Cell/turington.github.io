@@ -1,17 +1,22 @@
 
 #events
 {
-	text-align: center;
-	display: block;
-	padding: 30px 0px;
+	text-align:center;
+	display:block;
+	
+	padding:30px 0px;
+	
 }
 
 	#eventsContainer
 	{
-		display: block;
-		column-count: 3;
-		column-gap: 0px;
+		display: flex;
+	flex-direction:row;
+	flex-wrap: wrap;
+		
+		column-gap:10px;
 		margin: 7%;
+
 	}
 
 
@@ -96,8 +101,10 @@
 @media only screen and (max-width: 1000px)
 {
 		#eventsContainer
-		{
-			column-count: 2;
+		{ 
+			flex-direction:column;
+			column-count:2;
+			margin:auto;
 		}
 }
 
@@ -105,7 +112,7 @@
 {
 		#eventsContainer
 		{
-			column-count: 1;
+			column-count:1;
 		}
 }
 
