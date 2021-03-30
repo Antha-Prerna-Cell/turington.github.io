@@ -7,7 +7,7 @@ var loadEvents = /*get json object from backend*/'\
 		"Name": "Coding marathon",\
 		"tagLine": "May the code be with you!",\
 		"eventType":"Game",\
-		"description": "A three round tech marathon. Round 1 will be a bebugging round. Round 2 will be a url treasure hunt. And the final round will me the main coding round where the contenders will be solving the problem statement provided.",\
+		"description": "A three round tech marathon. Round 1 will be a debugging round. Round 2 will be a url treasure hunt. And the final round will me the main coding round where the contenders will be solving the problem statement provided.",\
 		"website":"https://forms.gle/wEvUij4zMGptNA9e7",\
 		"logo":"webiesta.svg"\
 	},\
