@@ -32,7 +32,7 @@ var loadEvents = /*get json object from backend*/'\
 	 	"tagLine": "Multi-language coding",\
 	 	"eventType":"Game",\
 	"description": "Its a multilingual coding competition. The participant will be given a code and he /she will have to write its solution in as many language they can. The one with more languages and up to mark code will be the winner.It will have two rounds.First round will comprise of MCQ questions and Round second will be actual coding round.",\
-	 	"website":"https://forms.gle/XTFTYNv6i8bcYWLk6",\
+	 	"website":"https://www.codingninjas.com/events/omnicoder-ramanujan-college ",\
 		"logo":"processor.svg"\
  },\
  {\
